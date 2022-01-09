@@ -23,7 +23,6 @@ import com.spring.guru.cheetabrewery.web.model.BeerDto;
 /**
  * Created by jt on 2019-04-20.
  */
-@Deprecated
 @RequestMapping("/api/v1/beer")
 @RestController
 public class BeerController {
